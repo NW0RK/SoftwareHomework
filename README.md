@@ -11,7 +11,7 @@ Otherwise color selection itself is perfectly fine with selected colors being vi
 
 Font choice is very simple with the site using PT Sans
 
-[[Screenshot 2026-04-06 150421.png]]
+![[Screenshot 2026-04-06 150421.png]]
 
 It is a very legible font (as is customary for Sans), sizes are relatively large with h1 font-size as 3.125em, h2 as 1.625em, h3 as 1.313em and finally h4,h5 and h6 being 16px.
 It seems as though website is going for a highly accessible newspaper-style feel (as becomes apparent later when we try to zoom out and see that there's set limit to how small elements can truly get). Contrast is well thought out, they use white on dark backgrounds and black on light backgrounds.
