@@ -15,7 +15,9 @@ Font choice is very simple with the site using PT Sans
 <img src="Screenshot 2026-04-06 150421.png" alt="Screenshot 2026-04-06 150421">
 
 It is a very legible font (as is customary for Sans), sizes are relatively large with h1 font-size as 3.125em, h2 as 1.625em, h3 as 1.313em and finally h4,h5 and h6 being 16px.
+
 It seems as though website is going for a highly accessible newspaper-style feel (as becomes apparent later when we try to zoom out and see that there's set limit to how small elements can truly get). Contrast is well thought out, they use white on dark backgrounds and black on light backgrounds.
+
 As for spacing it must be said while individually there's nothing wrong with what's presented here as a whole spacing between the elements breaks down since there's not enough separation between different kinds of elements, as said before it seems as though you are reading a newspaper rather than visiting a dynamic Web 2.0 website
 
 ## Learnability
@@ -38,7 +40,9 @@ It's a very confusing implementation with 4 large sections on left, 4 small sect
 
 ## Flexibility & Responsiveness
 
-Overall it adapts well to the mobile interface (given its simplistic approach to design) but several elements jump out, instead of lowering the number of news or articles so that the user has the ability to reach the bottom of the page in same time as the desktop user we see that same amount of articles is maintained resulting in extended scrolling time before we get to the footer. Also the elements that were previously confusing like the decision of the images as clickable routes to the relevent pages instead of clickable text in Undergraduate page are further strengthened here given the fact that nobody expects to click a regular looking picture on mobile given the fact that there's no mouse hover animation to tell you that it's clickable. Also when we try to zoom out of the page on desktop instead of continuing to make the elements smaller we reach a point where site does not take up the whole width anymore and starts to resemble a snapshot of itself
+Overall it adapts well to the mobile interface (given its simplistic approach to design) but several elements jump out, instead of lowering the number of news or articles so that the user has the ability to reach the bottom of the page in same time as the desktop user we see that same amount of articles is maintained resulting in extended scrolling time before we get to the footer.
+
+Also the elements that were previously confusing like the decision of the images as clickable routes to the relevent pages instead of clickable text in Undergraduate page are further strengthened here given the fact that nobody expects to click a regular looking picture on mobile given the fact that there's no mouse hover animation to tell you that it's clickable. Also when we try to zoom out of the page on desktop instead of continuing to make the elements smaller we reach a point where site does not take up the whole width anymore and starts to resemble a snapshot of itself
 
 <img src="Screenshot 2026-04-06 162134.png" alt="Screenshot 2026-04-06 162134">
 
