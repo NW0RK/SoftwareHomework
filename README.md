@@ -5,6 +5,7 @@
 ## **Colors & Visual Design**
 
 The colors are consistent throughout the website, the main color demonstrated is #002147 Dark Blue, it's used to color the Header and Footer backgrounds and serves as a background for highlight boxes. Clickable Links on the page itself are colored with #2F72AE Light Blue which turns to #CC1E34 Red when hovered, sadly there are some discrepancies, like how the Latest News section used black as a title color despite being clickable and serving the same function as OXFORD FEATURES, while it's understandable that this may be because of distinction that designers wanted to make between featured and latest articles, it does not fit into general theme of how this specific color is utilized throughout the website.
+
 Otherwise color selection itself is perfectly fine with selected colors being visibly distinct, the issue I have discovered with them is that (due to the selection of Blue as the main color) while enabling Night Light mode on Windows, it becomes hard to differentiate between black and #2F72AE Light Blue text.
 
 ## **Readability**
